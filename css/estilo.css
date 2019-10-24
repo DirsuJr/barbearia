@@ -1,5 +1,49 @@
-/*
-#EC5E5D - titulo
-#FFD1D1 - background
-#6FB382- texto destacado
-*/
+em strong{
+    color: #FF1400 ;
+}
+
+ul{
+    display: inline-block ;
+    width: 20% ;
+    vertical-align: top ;
+    margin-right: 15% ;
+
+}
+
+#banner{
+    width: 100% ;
+}
+
+#missao{
+    font-size: 20px ;
+}
+
+.imagem-nefeficios{
+    width: 50% ;
+}
+
+.titulo-principal{
+    padding-left: 20px ;
+    color: #FF1400 ;
+}
+
+.principal{
+    background-color: aliceblue ;
+    padding: 30px ;
+}
+
+.titulo-centralizado{
+    text-align: center ;
+}
+
+.p{
+    text-align: center ;
+}
+
+.beneficios{
+    padding: 20px ;
+}
+
+.itens{
+    font-style: italic ;
+}
